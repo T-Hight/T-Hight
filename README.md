@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Taylor Hight</h1>
+<h1 align="center">Hi, I'm Taylor Hight</h1>
 <h3 align="center">A Full Stack Developer interested in collaboration and work opportunities</h3>
 
 - 🔭 I’m currently working on [Deploying a Flask API](https://github.com/T-Hight/cd0157-Server-Deployment-and-Containerization#deploying-a-flask-api)
 
 - 📫 How to reach me **Taylorthight@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/taylor-hight-37a178240/](https://www.linkedin.com/in/taylor-hight-37a178240/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/taylor-hight-37a178240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taylor-hight-37a178240/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

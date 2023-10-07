@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **Taylorthight@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/taylor-hight-37a178240/](https://www.linkedin.com/in/taylor-hight-37a178240/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
